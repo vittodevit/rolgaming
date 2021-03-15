@@ -33,8 +33,11 @@ canvas {
     margin-left: 20px;
 }
 
-@media(max-width: 444px){
-    
+@media(max-width: 632px){
+    #logo{
+        width: 95vw;
+        height: 100%;
+    }
 }
 
 .main{position: absolute;}
